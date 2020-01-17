@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26329" started-at="2020-01-16T16:53:17Z" finished-at="2020-01-16T16:53:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26329" started-at="2020-01-16T16:53:17Z" finished-at="2020-01-16T16:53:43Z">
+      <class name="MYFRAMEWORK.MYFRAMEWORK.ExtentReportTestNG">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:MYFRAMEWORK.MYFRAMEWORK.ExtentReportTestNG@43a25848]" name="setUp" is-config="true" duration-ms="533" started-at="2020-01-16T22:23:16Z" finished-at="2020-01-16T22:23:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:MYFRAMEWORK.MYFRAMEWORK.ExtentReportTestNG@43a25848]" name="beforeTest" is-config="true" duration-ms="7728" started-at="2020-01-16T22:23:17Z" finished-at="2020-01-16T22:23:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:MYFRAMEWORK.MYFRAMEWORK.ExtentReportTestNG@43a25848]" name="Test1" duration-ms="1368" started-at="2020-01-16T22:23:25Z" finished-at="2020-01-16T22:23:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:MYFRAMEWORK.MYFRAMEWORK.ExtentReportTestNG@43a25848]" name="Test2" duration-ms="9279" started-at="2020-01-16T22:23:26Z" finished-at="2020-01-16T22:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:MYFRAMEWORK.MYFRAMEWORK.ExtentReportTestNG@43a25848]" name="afterTest" is-config="true" duration-ms="7930" started-at="2020-01-16T22:23:35Z" finished-at="2020-01-16T22:23:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:MYFRAMEWORK.MYFRAMEWORK.ExtentReportTestNG@43a25848]" name="tearDown" is-config="true" duration-ms="891" started-at="2020-01-16T22:23:43Z" finished-at="2020-01-16T22:23:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MYFRAMEWORK.MYFRAMEWORK.ExtentReportTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
